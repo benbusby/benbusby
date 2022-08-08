@@ -7,4 +7,5 @@ For more contact methods and ways to donate, visit my website: https://benbusby.
 [![itch.io](https://img.shields.io/badge/Itch.io-fa5c5b?style=for-the-badge&logo=itchdotio&logoColor=white)](https://benbusby.itch.io)
 [![bandcamp](https://img.shields.io/badge/bandcamp-1da0c3?style=for-the-badge&logo=bandcamp&logoColor=white)](https://benbusby.bandcamp.com)
 [![ko-fi](https://img.shields.io/badge/ko%E2%80%93fi-00b9fe?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/benbusby)
+[![liberapay](https://img.shields.io/badge/liberapay-ffd513?style=for-the-badge&logo=liberapay&logoColor=black)](https://en.liberapay.com/benbusby/)
 [![donate](https://img.shields.io/badge/donate-6772e5?style=for-the-badge&logo=stripe&logoColor=white)](https://donate.stripe.com/cN203j095dMG3jq5kk)
